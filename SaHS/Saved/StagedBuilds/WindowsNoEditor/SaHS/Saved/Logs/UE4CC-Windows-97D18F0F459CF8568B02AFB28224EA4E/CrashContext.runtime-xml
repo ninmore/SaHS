@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<Version>1</Version>
+<ProcessId>16316</ProcessId>
+<IsInternalBuild>0</IsInternalBuild>
+<IsPerforceBuild>0</IsPerforceBuild>
+<IsSourceDistribution>0</IsSourceDistribution>
+<GameName>SaHS</GameName>
+<ExecutableName>UE4Game</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<PlatformName>WindowsNoEditor</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Game</EngineMode>
+<EngineVersion>4.10.1-2791327+++depot+UE4-Releases+4.10</EngineVersion>
+<CommandLine> /Game/Untitled -stdout -abslog=C:\Users\Kyle\AppData\Local\Temp\C+Program+Files+(x86)+Epic+Games+4.10\Logs\Client.log -Messaging -nomcp -Windowed -CrashForUAT -SessionId=7A6AB46343C2737D35C5AA97D8514335 -SessionOwner=Kyle -SessionName='Play On Device' </CommandLine>
+<LanguageLCID>2057</LanguageLCID>
+<DefaultLocale>en_GB</DefaultLocale>
+<IsUE4Release>0</IsUE4Release>
+<UserName></UserName>
+<BaseDir>C:/Users/Kyle/Desktop/Systems Architechure for High Schoolers/SaHS/Saved/StagedBuilds/WindowsNoEditor/Engine/Binaries/Win64/</BaseDir>
+<RootDir>C:/Users/Kyle/Desktop/Systems Architechure for High Schoolers/SaHS/Saved/StagedBuilds/WindowsNoEditor/</RootDir>
+<MachineId>3FD7813F4B5E2626A6E1CC9898329AD8</MachineId>
+<EpicAccountId>f50b8d9ce9b147eda35341b9bd411beb</EpicAccountId>
+<CallStack></CallStack>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<ErrorMessage>Assertion failed: LoadLibraryW(*DLLToLoad) [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.10\Engine\Source\Runtime\Engine\Private\VorbisAudioInfo.cpp] [Line: 343] 
+Failed to load DLL ../../../Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll
+</ErrorMessage>
+<MiscNumberOfCores>4</MiscNumberOfCores>
+<MiscNumberOfCoresIncludingHyperthreads>8</MiscNumberOfCoresIncludingHyperthreads>
+<MiscIs64bitOperatingSystem>1</MiscIs64bitOperatingSystem>
+<MiscCPUVendor>GenuineIntel</MiscCPUVendor>
+<MiscCPUBrand>Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz</MiscCPUBrand>
+<MiscPrimaryGPUBrand>NVIDIA GeForce GTX 780 Ti </MiscPrimaryGPUBrand>
+<MiscOSVersionMajor>Windows 8.1</MiscOSVersionMajor>
+<MiscOSVersionMinor></MiscOSVersionMinor>
+<CrashDumpMode>0</CrashDumpMode>
+<MemoryStatsTotalPhysical>17125900288</MemoryStatsTotalPhysical>
+<MemoryStatsTotalVirtual>140737488224256</MemoryStatsTotalVirtual>
+<MemoryStatsPageSize>4096</MemoryStatsPageSize>
+<MemoryStatsTotalPhysicalGB>16</MemoryStatsTotalPhysicalGB>
+<MemoryStatsAvailablePhysical>9902415872</MemoryStatsAvailablePhysical>
+<MemoryStatsAvailableVirtual>140736853131264</MemoryStatsAvailableVirtual>
+<MemoryStatsUsedPhysical>159375360</MemoryStatsUsedPhysical>
+<MemoryStatsPeakUsedPhysical>164102144</MemoryStatsPeakUsedPhysical>
+<MemoryStatsUsedVirtual>277106688</MemoryStatsUsedVirtual>
+<MemoryStatsPeakUsedVirtual>282333184</MemoryStatsPeakUsedVirtual>
+<MemoryStatsbIsOOM>0</MemoryStatsbIsOOM>
+<MemoryStatsOOMAllocationSize>0</MemoryStatsOOMAllocationSize>
+<MemoryStatsOOMAllocationAlignment>0</MemoryStatsOOMAllocationAlignment>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+</PlatformProperties>
+</FGenericCrashContext>

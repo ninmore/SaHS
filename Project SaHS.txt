@@ -1,0 +1,21 @@
+Project SaHS Notes:
+
+
+TODO:
+* Make an instructions array
+* Delete Instruction
+* Fix if the instruction is moved out of the area
+* Make a decoders 
+* Make instructions run in order with an indicator of what instruction is selected
+* Make registers work by adding a removing them from an array
+* Make Instructions work with arrays
+* Make Instructions work with add and subtract and basic instructions
+* Make the current instructions print to the output section in binary or hex
+* Memory make it work?
+* Clean up 
+* Test, debug, pre-release
+* UDN Document
+
+BUGS? WHAT SQUASH THEM, MAYBE LATER...:
+
+* Instruction appear behind when move over another instruction.
