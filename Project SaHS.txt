@@ -1,5 +1,13 @@
 Project SaHS Notes:
 
+NOTES:
+
+NO INTERACTIVE INTERFACE UNTIL EVERYTHING ELSE IS DONE.
+
+Instruction ID's
+* 1 = Start
+* 2 = End
+
 
 TODO:
 * Make an instructions array
@@ -18,4 +26,8 @@ TODO:
 
 BUGS? WHAT SQUASH THEM, MAYBE LATER...:
 
-* Instruction appear behind when move over another instruction.
+
+* Shadowy thing under art?
+
+
+
