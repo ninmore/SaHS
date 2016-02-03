@@ -31,6 +31,13 @@
 # Debug files
 *.dSYM/
 
+#Custom
+Binaries/
+.vs/
+Saved/
+Intermediate/
+Saved/
+
 # =========================
 # Operating System Files
 # =========================
