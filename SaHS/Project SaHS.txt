@@ -1,0 +1,59 @@
+Project SaHS Notes:
+
+NOTES:
+
+NO INTERACTIVE INTERFACE UNTIL EVERYTHING ELSE IS DONE!
+
+Instruction ID's = Tag 0
+* 1 = Start
+* 2 = End
+
+Type of connector = Tag 1
+
+* 1 = Top Connector
+* 2 = Bottom Connector
+* 3 = Both Top and Bottom Connector
+
+
+
+TODO:
+* Delete Instruction
+* Move Instructions/ Up or Down
+* Registers! 
+* Make a decoders 
+* Make instructions run in order with an indicator of what instruction is selected
+* Make registers work by adding a removing them from an array
+* Make Instructions work with arrays
+* Make Instructions work with add and subtract and basic instructions
+* Make the current instructions print to the output section in binary or hex
+* Memory make it work?
+* Clean up 
+* Test, debug, pre-release
+* UDN Document
+
+BUGS? WHAT SQUASH THEM, MAYBE LATER...:
+
+* Shadowy thing under art?
+
+PSEUDO CODE!
+
+Is there any other instruction on in the area?
+	if(true): 
+		Return CAN-DELETE=FALSE; MOVE-UP=FALSE; MOVE-DOWN=FALSE;
+	else:
+		Can the instruction above swap places?
+		if(true)
+			Can the instruction below swap places?
+			if(true)
+				Return CAN-DELETE=TRUE; MOVE-UP=TRUE; MOVE-DOWN=TRUE;
+			else 
+				Return CAN-DELETE=TRUE; MOVE-UP=TRUE; MOVE-DOWN=FALSE;
+		else:
+			if(true)
+				Return CAN-DELETE=TRUE; MOVE-UP=FALSE; MOVE-DOWN=TRUE;
+			else 
+				Return CAN-DELETE=TRUE; MOVE-UP=FALSE; MOVE-DOWN=FALSE;
+		
+
+
+
