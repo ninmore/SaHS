@@ -32,10 +32,10 @@
 *.dSYM/
 
 #Custom
-Binaries/
+Binaries
 .vs/
-Saved/
-Intermediate/
+Saved
+Intermediate
 
 # =========================
 # Operating System Files
