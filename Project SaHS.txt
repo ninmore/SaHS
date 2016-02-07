@@ -12,7 +12,7 @@ Type of connector = Tag 1
 
 * 1 = Top Connector
 * 2 = Bottom Connector
-* 3 = Both Top and Bottom Connector
+* 3 = Both Top and Bottom Connector (The cheater)
 
 
 
