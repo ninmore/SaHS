@@ -15,7 +15,6 @@
 *.lo
 
 # Shared objects (inc. Windows DLLs)
-*.dll
 *.so
 *.so.*
 *.dylib
@@ -32,7 +31,6 @@
 *.dSYM/
 
 #Custom
-Binaries
 .vs/
 Saved
 Intermediate
