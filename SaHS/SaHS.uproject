@@ -2,12 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.10",
 	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "SaHS",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	]
+	"Description": ""
 }
