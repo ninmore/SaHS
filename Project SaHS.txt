@@ -7,12 +7,17 @@ NO INTERACTIVE INTERFACE UNTIL EVERYTHING ELSE IS DONE!
 Instruction ID's = Tag 0
 * 1 = Start
 * 2 = End
+* 3 = Move
+* 4 = Call
 
 Type of connector = Tag 1
 
-* 1 = Top Connector
-* 2 = Bottom Connector
+* 1 = Bottom Connector
+* 2 = Top Connector
 * 3 = Both Top and Bottom Connector (The cheater)
+* 4 = Both Top and Bottom and Right Connector
+* 5 = Left Connector
+* 6 = Left Connector with also Right Connector
 
 
 
@@ -30,6 +35,9 @@ TODO:
 * Clean up 
 * Test, debug, pre-release
 * UDN Document
+* Optimisations
+* Optimisations for textures as they are still firework PNG
+* Get rid or empty the tags variable
 
 BUGS? WHAT SQUASH THEM, MAYBE LATER...:
 * Shadowy thing under art?
