@@ -22,7 +22,6 @@ Type of connector = Tag 1
 
 
 TODO:
-* Delete Instruction
 * Move Instructions/ Up or Down
 * Registers! 
 * Make a decoders 
