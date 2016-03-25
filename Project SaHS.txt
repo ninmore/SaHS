@@ -19,10 +19,21 @@ Type of connector = Tag 1
 * 5 = Left Connector
 * 6 = Left Connector with also Right Connector
 
+Attribute value array:
+* Type | Addressing | Value
 
+	Types:
+	* R = Register
+	* M = Memory
+	* I = Intermediate Value
+	* L = Label
+	
+	Addressing:
+	* D = Direct
+	* IN = Indirect
+	* IT = Intermediate
 
 TODO:
-* Registers! 
 * Make a decoders 
 * Make instructions run in order with an indicator of what instruction is selected
 * Make registers work by adding a removing them from an array
@@ -39,25 +50,6 @@ TODO:
 
 BUGS? WHAT SQUASH THEM, MAYBE LATER...:
 * Shadowy thing under art?
-
-PSEUDO CODE!
-
-Is there any other instruction on in the area?
-	if(true): 
-		Return CAN-DELETE=FALSE; MOVE-UP=FALSE; MOVE-DOWN=FALSE;
-	else:
-		Can the instruction above swap places?
-		if(true)
-			Can the instruction below swap places?
-			if(true)
-				Return CAN-DELETE=TRUE; MOVE-UP=TRUE; MOVE-DOWN=TRUE;
-			else 
-				Return CAN-DELETE=TRUE; MOVE-UP=TRUE; MOVE-DOWN=FALSE;
-		else:
-			if(true)
-				Return CAN-DELETE=TRUE; MOVE-UP=FALSE; MOVE-DOWN=TRUE;
-			else 
-				Return CAN-DELETE=TRUE; MOVE-UP=FALSE; MOVE-DOWN=FALSE;
 		
 
 
