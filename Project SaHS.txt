@@ -32,6 +32,14 @@ Attribute value array:
 	* D = Direct
 	* IN = Indirect
 	* IT = Intermediate
+	
+Dropdown Options:
+* Numerial Value
+* Register
+* Register Indirect
+* Memory
+* Indirect Memory
+* Label
 
 TODO:
 * Make a decoders 
