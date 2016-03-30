@@ -44,11 +44,10 @@ Dropdown Options:
 TODO:
 * Make a decoders 
 * Make instructions run in order with an indicator of what instruction is selected
-* Make registers work by adding a removing them from an array
-* Make Instructions work with arrays
 * Make Instructions work with add and subtract and basic instructions
 * Make the current instructions print to the output section in binary or hex
 * Memory make it work?
+* Need to make rules checking for regitsers with register values
 * Clean up 
 * Test, debug, pre-release
 * UDN Document
