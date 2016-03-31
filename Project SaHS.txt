@@ -8,14 +8,21 @@ Instruction ID's = Tag 0
 * 1 = Start
 * 2 = End
 * 3 = Move
-* 4 = Call
+* 4 = CALL
+* 5 = ADD
+* 6 = SUB
+* 7 = MUL
+* 8 = DIV
+* 9 = INC
+* 10 = DEC
+* 11 = HLT
 
 Type of connector = Tag 1
 
 * 1 = Bottom Connector
 * 2 = Top Connector
-* 3 = Both Top and Bottom Connector (The cheater)
-* 4 = Both Top and Bottom and Right Connector
+* 3 = Both Top and Bottom Connector (The Cheater)
+* 4 = Both Top and Bottom and Right Connector (Super Cheater)
 * 5 = Left Connector
 * 6 = Left Connector with also Right Connector
 
@@ -43,6 +50,9 @@ Dropdown Options:
 
 TODO:
 * Make a decoders 
+* Make attributes change colour depending on the value type.
+* Add float support
+* Need to add overflow checks!
 * Make instructions run in order with an indicator of what instruction is selected
 * Make Instructions work with add and subtract and basic instructions
 * Make the current instructions print to the output section in binary or hex
