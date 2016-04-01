@@ -16,6 +16,11 @@ Instruction ID's = Tag 0
 * 9 = INC
 * 10 = DEC
 * 11 = HLT
+* 12 = JMP
+* 13 = SWP
+* 14 = CMP
+* 15 = JEQ
+* 16 = JNE
 
 Type of connector = Tag 1
 
@@ -50,8 +55,12 @@ Dropdown Options:
 
 TODO:
 * Make a decoders 
-* Make attributes change colour depending on the value type.
+* Convert Macros to Instructions, they look better
+* Labels
+* Make attributes change colour depending on the value type
+* Add tool tips to instructions
 * Add float support
+* Clicking on the flag flips the flag.
 * Need to add overflow checks!
 * Make instructions run in order with an indicator of what instruction is selected
 * Make Instructions work with add and subtract and basic instructions

@@ -1,9 +1,5 @@
 Basic Instructions
 Advanced Instructions
-•	JMP
-•	SWP
-•	JEQ
-•	JNE
 •	JNZ
 •	JZR
 •	CALL
