@@ -21,6 +21,10 @@ Instruction ID's = Tag 0
 * 14 = CMP
 * 15 = JEQ
 * 16 = JNE
+* 17 = JGT
+* 18 = JLT
+* 19 = JLE
+* 20 = JGE
 
 Type of connector = Tag 1
 
@@ -53,10 +57,16 @@ Dropdown Options:
 * Indirect Memory
 * Label
 
+InsertType:
+* 0 = None
+* 1 = Above
+* 2 = Below
+* 3 = All
+
 TODO:
-* Make a decoders 
 * Convert Macros to Instructions, they look better
 * Labels
+* CPU Menu
 * Make attributes change colour depending on the value type
 * Add tool tips to instructions
 * Add float support

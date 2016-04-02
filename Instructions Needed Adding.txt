@@ -1,14 +1,7 @@
 Basic Instructions
 Advanced Instructions
-•	JNZ
-•	JZR
 •	CALL
-•	SUB
+•	SUBR
 •	CMP
 •	CMPS
-•	JGT
-•	JLT
-•	JGE
 •	LOOP
-•	AND/XAND
-•	OR/XOR
