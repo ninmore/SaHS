@@ -49,6 +49,10 @@ Attribute value array:
 	* IN = Indirect
 	* IT = Intermediate
 	
+Attribute Texture Type:
+	* 0 = Mid
+	* 1 = End
+	
 Dropdown Options:
 * Numerial Value
 * Register
@@ -64,19 +68,19 @@ InsertType:
 * 3 = All
 
 TODO:
-* Convert Macros to Instructions, they look better
 * Labels
 * CPU Menu
+* Error screen
 * Make attributes change colour depending on the value type
 * Add tool tips to instructions
 * Add float support
 * Clicking on the flag flips the flag.
+* Improve scrolling
 * Need to add overflow checks!
 * Make instructions run in order with an indicator of what instruction is selected
 * Make Instructions work with add and subtract and basic instructions
 * Make the current instructions print to the output section in binary or hex
-* Memory make it work?
-* Need to make rules checking for regitsers with register values
+* Memory make it work? No
 * Clean up 
 * Test, debug, pre-release
 * UDN Document
