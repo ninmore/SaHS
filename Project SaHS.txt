@@ -70,15 +70,9 @@ InsertType:
 TODO:
 * Labels
 * CPU Menu
-* Error screen
-* Make attributes change colour depending on the value type
 * Add tool tips to instructions
 * Add float support
-* Clicking on the flag flips the flag.
-* Improve scrolling
 * Need to add overflow checks!
-* Make instructions run in order with an indicator of what instruction is selected
-* Make Instructions work with add and subtract and basic instructions
 * Make the current instructions print to the output section in binary or hex
 * Memory make it work? No
 * Clean up 
@@ -86,7 +80,7 @@ TODO:
 * UDN Document
 * Optimisations
 * Optimisations for textures as they are still firework PNG
-* Get rid or empty the tags variable
+* HTML 5 Deployment
 
 BUGS? WHAT SQUASH THEM, MAYBE LATER...:
 * Shadowy thing under art?
