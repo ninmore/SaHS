@@ -68,14 +68,9 @@ InsertType:
 * 3 = All
 
 TODO:
-* Labels
-* CPU Menu
-* Add tool tips to instructions
-* Add float support
-* Need to add overflow checks!
+* Connectors idea
 * Make the current instructions print to the output section in binary or hex
-* Memory make it work? No
-* Clean up 
+* Clean up and make better textures
 * Test, debug, pre-release
 * UDN Document
 * Optimisations
