@@ -69,8 +69,8 @@ InsertType:
 
 TODO:
 * Connectors idea
-* Make the current instructions print to the output section in binary or hex
 * Clean up and make better textures
+* Check functions if private, protected or public
 * Test, debug, pre-release
 * UDN Document
 * Optimisations

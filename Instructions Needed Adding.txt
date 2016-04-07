@@ -3,5 +3,3 @@ Advanced Instructions
 •	CALL
 •	SUBR
 •	CMP
-•	CMPS
-•	LOOP
