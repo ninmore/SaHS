@@ -68,7 +68,6 @@ InsertType:
 * 3 = All
 
 TODO:
-* Connectors idea
 * Clean up and make better textures
 * Check functions if private, protected or public
 * Test, debug, pre-release
