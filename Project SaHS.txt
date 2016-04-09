@@ -70,7 +70,7 @@ InsertType:
 TODO:
 * Clean up and make better textures
 * Check functions if private, protected or public
-* Test, debug, pre-release
+* Test, debug, pre-release, remove debugging code
 * UDN Document
 * Optimisations
 * Optimisations for textures as they are still firework PNG
