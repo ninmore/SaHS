@@ -68,12 +68,7 @@ InsertType:
 * 3 = All
 
 TODO:
-* Clean up and make better textures
-* Check functions if private, protected or public
-* Test, debug, pre-release, remove debugging code
-* UDN Document
-* Optimisations
-* Optimisations for textures as they are still firework PNG
+* Test, debug, pre-release
 * HTML 5 Deployment
 
 BUGS? WHAT SQUASH THEM, MAYBE LATER...:
