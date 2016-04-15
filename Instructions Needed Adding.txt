@@ -2,4 +2,3 @@ Basic Instructions
 Advanced Instructions
 •	CALL
 •	SUBR
-•	CMP
