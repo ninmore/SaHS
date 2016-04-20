@@ -68,8 +68,6 @@ InsertType:
 * 3 = All
 
 TODO:
-* Test, debug, pre-release
-* HTML 5 Deployment
 
 BUGS? WHAT SQUASH THEM, MAYBE LATER...:
 * Shadowy thing under art?
