@@ -68,9 +68,6 @@ InsertType:
 * 3 = All
 
 TODO:
-
-BUGS? WHAT SQUASH THEM, MAYBE LATER...:
-* Shadowy thing under art?
 		
 
 
