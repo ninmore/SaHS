@@ -1,5 +1,5 @@
 # SaHS - Systems Architecture for High Schoolers
-This project was made for my final year project and was made in the Unreal Engine, using their Epic Games software. Feature and usage of the software can be found in the documentation PDF.
+This project was made for my final year project and was made in the Unreal Engine, using their Epic Games software. Feature and usage of the software can be found in the documentation PDF. [Releases here](https://github.com/ninmore/SaHS/releases)
 
 The software is used to show the basics of CPU simulation and Computer Systems Architecture (CSA).
 
